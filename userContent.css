@@ -1,0 +1,23 @@
+.reader-header,
+.moz-reader-content {
+  font-family: system-ui !important;
+}
+.moz-reader-content blockquote {
+  font-family: 'georgia', serif !important;
+  margin: 2rem !important;
+}
+.moz-reader-content p, 
+.moz-reader-content p, 
+.moz-reader-content blockquote, 
+.moz-reader-content ul, 
+.moz-reader-content ol, 
+.moz-reader-content li {
+  border-radius: 0 !important;
+}
+.moz-reader-content h1,
+.moz-reader-content h2,
+.moz-reader-content h3,
+.moz-reader-content h4,
+.moz-reader-content h5 {
+  margin: 3rem 0 1rem 0 !important;
+}
