@@ -21,3 +21,15 @@
 .moz-reader-content h5 {
   margin: 3rem 0 1rem 0 !important;
 }
+.moz-reader-content figure img {
+  width: 100% !important;
+}
+.moz-reader-content figcaption {
+  font-size: smaller !important;
+  line-height: 1.4 !important;
+  padding-top: 12px !important;
+}
+.moz-reader-content figcaption span svg {
+  display: inline-block;
+  margin-right: 8px;
+}
